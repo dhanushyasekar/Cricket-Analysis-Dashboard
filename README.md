@@ -57,14 +57,13 @@ Cricket-Analysis-Dashboard/
 ## 📸 Dashboard Screenshots
 
 ### Batting Dashboard
-![Batting Dashboard](screenshots/batting.png)
+![Batting Dashboard](batting.png)
 
 ### Bowling Dashboard
-![Bowling Dashboard](Screenshots/bowling.png)
+![Bowling Dashboard](bowling.png)
 
 ### Fielding Dashboard
-![Fielding Dashboard](Screenshots/fielding.png)
-
+![Fielding Dashboard](fielding.png)
 ## 📈 Key Skills Demonstrated
 
 - Data Cleaning
