@@ -57,7 +57,7 @@ Cricket-Analysis-Dashboard/
 ## 📸 Dashboard Screenshots
 
 ### Batting Dashboard
-![Batting Dashboard](Screenshots/batting.png)
+![Batting Dashboard](screenshots/batting.png)
 
 ### Bowling Dashboard
 ![Bowling Dashboard](Screenshots/bowling.png)
